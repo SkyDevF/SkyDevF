@@ -23,16 +23,6 @@
 - Firebase, Supabase, XAMPP
 - API Design & Integration
 
-**Design**
-- UI/UX
-- Figma, Canva
-- Animation
-
-**Tools**
-- Git
-- Python
-- TensorFlow Lite
-
 ---
 
 ## 🎯 My Goal
